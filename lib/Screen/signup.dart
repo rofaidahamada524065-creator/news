@@ -1,9 +1,10 @@
+import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:material_ui/material_ui.dart';
-import 'package:news/Provider/auth_provider.dart';
-import 'package:news/Screen/login.dart';
-import 'package:news/Widget/signup_custom.dart';
 import 'package:provider/provider.dart';
+import 'package:randumuser/Provider/auth_provider.dart';
+import 'package:randumuser/Screen/login.dart';
+import 'package:randumuser/Widget/signup_custom.dart';
+
 
 class Signup extends StatelessWidget {
    new({super.key});

@@ -1,5 +1,6 @@
 import 'package:dio/dio.dart';
-import 'package:news/Models/auth_model.dart';
+import 'package:randumuser/Models/auth_model.dart';
+
 
 class AuthServices {
   static Dio dio =Dio();

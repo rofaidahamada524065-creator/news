@@ -1,6 +1,8 @@
-import 'package:material_ui/material_ui.dart';
-import 'package:news/Models/auth_model.dart';
-import 'package:news/Services/auth_services.dart';
+
+
+import 'package:flutter/widgets.dart';
+import 'package:randumuser/Models/auth_model.dart';
+import 'package:randumuser/Services/auth_services.dart';
 
 class AuthProvider extends ChangeNotifier
 {
